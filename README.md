@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá👋
 
-<!--
-**braialindaogostoso/braialindaogostoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Bryan Kauan
+## Welcome to my GitHub profile!
+                                                                          
+:school: currently in the second technical year of secondary education systems
+                                                                                        
 
-Here are some ideas to get you started:
+##### Passionate about learning.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>   
+  <a href="https://github.com/maidell">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maidell&show_icons=true&theme=github_dark&border_radius=10%"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidell&count_private=true&layout=compact&langs_count=9&theme=github_dark&border_radius=10%&count_private=true"/>
+  
+</div>
