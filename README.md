@@ -1,7 +1,7 @@
 ## Hi, I'm Bryan Kauan 👋
 ## Welcome to my GitHub profile!
                                                                           
-:school: Currently in the second technical year of secondary education systems
+:school: Atualmente no terceiro ano do ensino médio de técnico de sistemas!
                                                                                         
 
 ##### Trying to be better
