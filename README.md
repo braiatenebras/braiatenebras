@@ -1,5 +1,5 @@
-## Hi, I'm Bryan Kauan 👋
-## Welcome to my GitHub profile!
+## Olá, meu nome é Bryan Kauan👋
+## Bem vindo ao meu perfil do GitHub!
                                                                           
 :school: Atualmente no terceiro ano do ensino médio de técnico de sistemas!
                                                                                         
