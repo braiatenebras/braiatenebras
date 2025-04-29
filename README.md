@@ -1,7 +1,7 @@
 ## Olá, meu nome é Bryan Kauan!👋
 ## Bem vindo ao meu perfil do GitHub!
                                                                           
-:school: Atualmente no terceiro ano do ensino médio de técnico de sistemas!
+:school: Atualmente no terceiro ano do ensino médio de Desenvolvimento de Sistemas.
                                                                                         
 
 ##### Trying to be better
